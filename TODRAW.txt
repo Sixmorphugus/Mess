@@ -1,0 +1,31 @@
+- Miller village NPCs:
+    o MOYLE [DONE]
+    o MOYLE'S WIFE [DONE]
+    o MOYLE'S ASSISTANT, CHAFF [DONE] 
+    o CULTISTS (x3)
+    o JERRY [DONE]
+    o JERRY'S WIFE
+    o WHY IS THIS IN CAPS [{¬} $WAG {¬}]
+
+- World NPCs:
+    o Mess character versions of the entire Dev team
+    o Rita
+    o Wise old man
+    o Bridge Keeper
+    o King (make him fat, it's part of his character)
+    o Limmy
+
+- Battle Screen Sprites for the following:
+    o Wolf-like thing *
+    o Dancing Demon
+    o "Super Hands" (interpret that name however you want)
+    o Ratnat
+    o Bandits (x3) *
+    o Battle-Screen sprite of Martin with wrench
+(items flagged with * also need world sprites)
+
+- Backgrounds for world that aren't awful 
+
+- Better (Mario-like) pipes in the tileset [on it]
+
+- I need some industrial and or some more stuff to go in the mines - Jack

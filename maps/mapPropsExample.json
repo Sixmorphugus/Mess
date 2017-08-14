@@ -1,0 +1,34 @@
+"properties":
+    {
+     "areaName":"Mines",
+     "bgImage":"",
+     "bgcol":"#1b1013",
+        
+     "interactableTiles":[
+         {
+            "posX": 0,
+            "posY": 5,
+            "message": null,
+            "goTo": "gz_3_-1",
+            "requireExamine": false,
+            "playSound": null,
+            "moveToX": 2496,
+            "moveToY": 704
+         },
+         {
+            "posX": 21,
+            "posY": 11,
+            "message": "MAIN SERVICE HATCH RULES[#]1. Don't fall down the main service hatch[#]2. If in doubt, refer to rule 1",
+            "messageImg": "talk_sign[#]talk_sign[#]talk_sign",
+            "goTo": null,
+            "requireExamine": true,
+            "playSound": null,
+            "moveToX": -1,
+            "moveToY": -1
+         }
+     ],
+        
+     "music":"scissors",
+     "xParalaxShift":"0.8",
+     "yParalaxShift":"1"
+    },

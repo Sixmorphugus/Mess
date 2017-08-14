@@ -1,0 +1,44 @@
+mess alpha v0.85 -> v0.9
+- Started keeping changelogs
+- Fixed some map entry bugs
+- Added animations to battle screens
+- Added levels, exp and character upgrades
+- Added forest and tower areas
+- Added second quest
+- Added jeff to Yarnberg
+- Added save points - game can now be saved with v0.85's 3-slot save system
+- Fixed character stat saving in v0.85's save system
+- Added spectre enemies and encounters in the tower
+- Added obtainable double jump
+- More items to find
+- Some fixes to old mines area, still innaccessable
+- Some changes to debug mode.
+- Temporary ending
+
+mess alpha v0.9 -> v0.91
+- Hotfixed a bug where the game could break when transitioning between areas
+- Fixed exp not transferring when levelling up
+- Lowered exp requirement to level up multiplier when levelling up (1.5 to 1.2)
+- Removed the restriction on exploring the game's other areas before talking to Jeff
+- Updated preloader to show file size.
+
+------------------------------------- PRESENT TO FUTURE LINE --------------------------------------
+
+mess alpha v0.91 -> v1.0 (POST-BAFTA)
+- Talk text now has nametags
+- Shortened lengthy cutscenes
+- Added abilities
+- Holding enter now skips all conversation until you have to make a decision.
+- Started adding main game features
+- Added vendors
+- Added three additional quests from Jeff
+- Fixed item/quest management dialogue pile-up
+- Removed item name issues
+- Redesigned item system and management
+- Added two shops, one in Yarnberg and one in New Mines, so the player can never run out of items
+- Added occasional enemy item drops
+- Double jump now obtainable
+- Added new hidden areas in Miller Village
+- Added sun temple
+- Changed temporary ending
+- Now ready to add new zones to the game

@@ -1,0 +1,16 @@
++ New Speach System + Intergration
++ MsgBox Options Functionality + Pipeline
++ Streamlined Cutscene System
+- New Battle System
+- Quests
++ Menus
++ Green Zone - Miller Village
++ Green Zone - The Wall Walk with Cave and Initial Battle Tutorial
++ Green Zone - Mines Part I to hub
+- Green Zone - Mines Part II accessable from Mines Part I after rocks are cleared
+- Green Zone - Hub (Tunnels to other areas + Bandit Confrontation + save point)
+- Green Zone - Yarnberg (NPC Town with shops, quests and events in which you aquire companions)
+- Green Zone - Agandare Forest with Witch House + Battle, Bandits, seperate areas and treasure.
+- Green Zone - Molly Bridge (uncrossable until you gain the trust of the locals)
+- Green Zone - Temple (contains traps, and treasure)
+- Green Zone - King's Lab + Portal

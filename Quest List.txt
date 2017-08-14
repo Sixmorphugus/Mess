@@ -1,0 +1,97 @@
+STORYLINE QUESTS
+________________
+
+WELCOME TO THE GREEN ZONE
+    This Moyle guy wants my help getting something he left in the caves. He'd get his son to do it but it looks like that
+    dude has... rather a lot on his hands, let me put it that way. Shouldn't be that hard. What could go wrong?
+    - Find MOYLE'S SATCHEL
+    - Bring the satchel back to Moyle
+    
+    NOTE: Battle tutorial occurs when:
+    - Martin enters the cave at the end of the wall.
+    - Martin arrives back at Moyle's Mill
+    
+    REWARD: None. This is busywork.
+
+AN ADVENTURE BEGINS
+    Requirements: WELCOME TO THE GREEN ZONE
+    Moyle and his family treated me to dinner last night, which was nice, except that one of them had a book or something, and...
+    and I was in it. There was a picture of me in the ancient book. I'm not sure what that means. Not much was said after that.
+    But apparently, Moyle wants me to go see this guy he knows. He says I should go through the old mines and tunnels, because it's
+    fastest.
+    - Go through the old mines to get to the HUB.
+    - Meet Charlie cat for the first time in the tunnels.
+    - Rescue Laurie from the tree. He joins you. Your first party member!
+    - Go to Yarnberg, talk to Gregory.
+    
+    REWARD: Laurie joins your party.
+
+RED TAPE
+    Requirements: AN ADVENTURE BEGINS
+    Gregory doesn't seem to trust me very much, but he says he's happy to help me - just as long as I help him first. He wants me
+    to do some things for him; things nobody else has managed to do. If I can do it; he'll beleive I'm really The Swamper of
+    legend everyone talks about; the one who'll save the world, and restore peace to the other zones. And then I assume they'll   
+    finally let me go see that King guy everyone's talking about.
+    
+    Problem is, these tasks don't look that easy. He wants me to:
+    - Find out what's going on at the new mines, and why miners keep disappearing.
+    - Eradicate the bandit camp in Angadare Forest
+    - Recover stolen generator coils from a runaway convict (It's kind of my fault he escaped...)
+    
+    - Kill the Super Mutant deep inside the New Mines
+    - Find the bandit camp in Angadare Forest. Take on the bandits and win.
+    - Find Bottleneck Joe and beat him in battle (he uses attacks involving the generator coils)
+
+    REWARD: You are allowed to cross Molly Bridge and see king, ending the demo. Charlie cat will also join you; he is immensely
+    powerful in battle and is the first of 3 cat companions you aquire.
+
+
+OPTIONAL QUESTS
+_______________
+
+WITCH!
+    REQUIREMENTS: AN ADVENTURE BEGINS
+    There's this girl I found in Yarnberg. She seemed pretty broken, and she looked kind of haggard too. Lola, or something. She
+    told me about a Witch in the forest, and gave me this rusty key. I guess it's a job for The Swamper of legend.
+    - Find the witch in the forest and beat her in battle to recover LOLA'S PRIZED POSESSION
+    
+    REWARD: Lola joins your group. She cannot use weapons, but wields powerful melee attacks.
+
+BANDIT PATROL
+    REQUIREMENTS: AN ADVENTURE BEGINS
+    That overseer I met before has a request for me. He says if I do this for him, not only will he let me off for the trouble I
+    caused this morning (I maintain that this was more his fault than mine) but also give me something a little more hard hitting
+    to wield. I can go with that.
+    
+    Operation destroy all bandits is go.
+    - Find and beat all of the bandits in the area in battle, triggering every random event.
+    
+    REWARD: Get the Monkey Wrench (offensive battle equipment for swampers)
+
+WINDMILL WARFARE
+    REQUIREMENTS: RED TAPE
+    I popped by to say goodbye to Moyle. Turns out he still hasn't managed to jump the creek, but I'm not surprised, with that
+    technique of his.
+    He wants me to do it. I don't want to, but I guess I owe him.
+    - Jump the creek on a motorcycle
+    
+    NOTE: This is a minigame (see below)
+    
+    REWARD: After Martin jumps the creek, Moyle gains the respect of his peers. As a reward, Martin is given MR-TWEEN - a secret
+    peice of offensive equipment for swampers that can hit multiple enemies at once with the power of a normal attack.
+
+
+MINIGAMES
+_________
+
+CREEK JUMPING
+    Pretty simple - mash buttons to jump the creek on a motorcycle. If you fail, you take some damage.
+    
+WIRING PUZZLE
+    Mandatory minigame in the New Mines.
+
+MAZE OF DOORS
+    Played during the WITCH! quest. Find your way though a maze by following the music.
+    
+RIVER CROSSING
+    Play crossy river to get to the island behind the temple.
